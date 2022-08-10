@@ -78,7 +78,7 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 
 #### ICCV 2021 ####
 * [Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/wangermeng2021/PVT-tensorflow2)
-* Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions — Supplemental Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_Pyramid_Vision_Transformer_ICCV_2021_supplemental.pdf) -**ICCV 2021** -[github]
+* [Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions — Supplemental Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_Pyramid_Vision_Transformer_ICCV_2021_supplemental.pdf) -**ICCV 2021** -[github]
 * [Joint Inductive and Transductive Learning for Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Joint_Inductive_and_Transductive_Learning_for_Video_Object_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/maoyunyao/JOINT)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/microsoft/Swin-Transformer)
 * [Self-supervised Video Object Segmentation by Motion Grouping](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Self-Supervised_Video_Object_Segmentation_by_Motion_Grouping_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/charigyang/motiongrouping)
@@ -90,6 +90,8 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * [Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Simpler_Is_Better_Few-Shot_Semantic_Segmentation_With_Classifier_Weight_Transformer_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/zhiheLu/CWT-for-FSS)
 * [Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World](https://openaccess.thecvf.com/content/ICCV2021W/ACVR/papers/Zhang_Trans4Trans_Efficient_Transformer_for_Transparent_Object_Segmentation_To_Help_Visually_ICCVW_2021_paper.pdf) -**ICCV 2021** -[github]
 * [Vision-Language Transformer and Query Generation for Referring Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Vision-Language_Transformer_and_Query_Generation_for_Referring_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/henghuiding/Vision-Language-Transformer) 
+*[Segmenter: Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/rstrudel/segmenter)
+
 
 #### NIPs 2021 ####
 * [Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://proceedings.neurips.cc/paper/2021/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf) -**NIPs 2021** -[github](https://github.com/EarthNets/RSI-Classification/blob/1a858a80881757fc2114305f15c1ae26be2c2169/configs/twins/README.md)
@@ -101,7 +103,20 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * [Segmentation applying TAG type label data and Transformer](https://ieeexplore.ieee.org/document/9650042) -**IEEE 2021** -[github](https://paperswithcode.com/paper/max-deeplab-end-to-end-panoptic-segmentation#code)
 
 #### arXiv 2021 ####
-* 
+* [OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments](https://arxiv.org/pdf/2106.13963.pdf) -**arXiv 2021** -[github]
+* [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/pdf/2111.01236.pdf) -**arXiv 2021** -[github](https://github.com/facebookresearch/HRViT)
+* [Self-Supervised Learning with Swin Transformers](https://arxiv.org/pdf/2105.04553.pdf) -**arXiv 2021** -[github]
+* [GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_40) -**arXiv 2021** -[github]
+* [SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation](https://arxiv.org/pdf/2103.03604.pdf) -**arXiv 2021** -[github]
+* [Satellite Image Semantic Segmentation](https://arxiv.org/pdf/2110.05812.pdf) -**arXiv 2021** -[github](https://github.com/YudeWang/UNet-Satellite-Image-Segmentation)
+* [Boosting Few-shot Semantic Segmentation with Transformers](https://arxiv.org/pdf/2108.02266.pdf) -**arXiv 2021** -[github]
+* []() -**arXiv 2021** -[github]
+* []() -**arXiv 2021** -[github]
+* []() -**arXiv 2021** -[github]
+* []() -**arXiv 2021** -[github]
+* []() -**arXiv 2021** -[github]
+* []() -**arXiv 2021** -[github]
+
 ### 2020
 #### CVPR 2020 ####
 #### ECCV 2020 ####
