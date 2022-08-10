@@ -7,7 +7,7 @@ You can add to this repository; we would be grateful.
 Please feel free to send me [pull requests](https://github.com/Syeda-Farhat/Transfomers-For-Segmentation/edit/main/README.md) or email (iamsyedafarhat@gmail.com) to add links.
 
 The structure that we'll use:  
-- [Paper Name](link) -- [[code]](link)
+- [Paper Name](link) -**Conference Name and Year** -[[github]](link)
 
 ## Table of Contents
 
@@ -16,13 +16,14 @@ The structure that we'll use:
      * [2022](#2022)
         * [WACV 2022](#WACV-2022)
         * [IEEE 2022](#IEEE-2022)
+        * [MDPI 2022](#MDPI-2022)
         * [arXiv 2022](#arXiv-2022)
      * [2021](#2021)
         * [CVPR 2021](#CVPR-2021)
         * [ICCV 2021](#ICCV-2021)
         * [NIPs 2021](#NIPs-2021)
         * [MICCIA 2021](#MICCIA-2021)
-        * [mdpi 2021](#mdpi-2021)
+        * [MDPI 2021](#MDPI-2021)
         * [IEEE 2021](#IEEE-2021)
         * [arXiv 2022](#arXiv-2022)
      * [2020](#2020)
@@ -36,7 +37,7 @@ The structure that we'll use:
         * [arXiv 2019](#arXiv-2019)
   * [Citation](Citation) 
   
-  ## Papers
+## Papers
 ### Survey
 * [A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf) -**arXiv 2021**.
 * [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) -**arXiv 2021**.
@@ -46,32 +47,59 @@ The structure that we'll use:
 
 ### 2022
 #### WACV 2022 ####
-* [Unetr: Transformers for 3d medical image segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) --[Code](https://github.com/tamasino52/UNETR)
-* [AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Yan_AFTer-UNet_Axial_Fusion_Transformer_UNet_for_Medical_Image_Segmentation_WACV_2022_paper.pdf) --[Code]
-* [Spatial-Temporal Transformer for 3D Point Cloud Sequences](https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf) --[Code]
+* [Unetr: Transformers for 3d medical image segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github](https://github.com/tamasino52/UNETR)
+* [AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Yan_AFTer-UNet_Axial_Fusion_Transformer_UNet_for_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github]
+* [Spatial-Temporal Transformer for 3D Point Cloud Sequences](https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf) -**WACV 2022** -[github]
 
 #### IEEE 2022 ####
-* [Swin Transformer Embedding UNet for Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686686) --[Code]
-* [Transformer and CNN Hybrid Deep Neural Network for Semantic Segmentation of Very-high-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686732) --[Code]
-* [A novel transformer based semantic segmentation scheme for fine-resolution remote sensing images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681903) --[Code]
-* [LFT-Net: Local Feature Transformer Network for Point Clouds Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9700748) --[Code]
+* [Swin Transformer Embedding UNet for Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686686) -**IEEE 2022** -[github]
+* [Transformer and CNN Hybrid Deep Neural Network for Semantic Segmentation of Very-high-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686732) -**IEEE 2022** -[github]
+* [A novel transformer based semantic segmentation scheme for fine-resolution remote sensing images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681903) -**IEEE 2022** -[github]
+* [LFT-Net: Local Feature Transformer Network for Point Clouds Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9700748) -**IEEE 2022** -[github]
 * [Transformer-based Efficient Salient Instance Segmentation Networks with Orientative Query](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678049) --[Code](https://github.com/ssecv/OQTR)
-* [Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681287) --[Code]
+* [Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681287) -**IEEE 2022** -[github]
+
+#### MDPI 2022 ####
+* [Enhanced Feature Pyramid Vision Transformer for Semantic Segmentation on Thailand Landsat-8 Corpus](https://www.mdpi.com/2078-2489/13/5/259) -**MDPI 2022** -[github]
 
 #### arXiv 2022 ####
-* [Pyramid fusion transformer for semantic segmentation](https://arxiv.org/pdf/2201.04019.pdf) --[Code]
-* [TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2201.12785.pdf) --[Code](https://github.com/Wenxuan-1119/TransBTS)
-* [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images](https://link.springer.com/chapter/10.1007/978-3-031-08999-2_22) --[Code]
-* [Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation](https://arxiv.org/pdf/2202.06498.pdf) --[Code](https://github.com/istarjun/TAFT-SE)
+* [Pyramid fusion transformer for semantic segmentation](https://arxiv.org/pdf/2201.04019.pdf) -**arXiv 2022** -[github]
+* [TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2201.12785.pdf) -**arXiv 2022** -[github](https://github.com/Wenxuan-1119/TransBTS)
+* [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images](https://link.springer.com/chapter/10.1007/978-3-031-08999-2_22) -**arXiv 2022** -[github]
+* [Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation](https://arxiv.org/pdf/2202.06498.pdf) -**arXiv 2022** -[github](https://github.com/istarjun/TAFT-SE)
 
 ### 2021
 #### CVPR 2021 ####
+* [MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_MaX-DeepLab_End-to-End_Panoptic_Segmentation_With_Mask_Transformers_CVPR_2021_paper.pdf) -**CVPR 2021** -[github](https://github.com/mattdeitke/cvpr-buzz/blob/992c23b72584342f8621d3d272dc60077766b002/paper-data/Wang_MaX-DeepLab_End-to-End_Panoptic_Segmentation_With_Mask_Transformers.json)
+* [End-to-End Video Instance Segmentation With Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Video_Instance_Segmentation_With_Transformers_CVPR_2021_paper.pdf) -**CVPR 2021** -[github](https://github.com/Epiphqny/VisTR)
+* [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective
+with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Rethinking_Semantic_Segmentation_From_a_Sequence-to-Sequence_Perspective_With_Transformers_CVPR_2021_paper.pdf) -**CVPR 2021** -[github](https://github.com/fudan-zvg/SETR)
+* [Sstvos: Sparse spatiotemporal transformers for video object segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Duke_SSTVOS_Sparse_Spatiotemporal_Transformers_for_Video_Object_Segmentation_CVPR_2021_paper.pdf) -**CVPR 2021** -[github](https://github.com/dukebw/SSTVOS)
+
 #### ICCV 2021 ####
+* [Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/wangermeng2021/PVT-tensorflow2)
+* Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions — Supplemental Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_Pyramid_Vision_Transformer_ICCV_2021_supplemental.pdf) -**ICCV 2021** -[github]
+* [Joint Inductive and Transductive Learning for Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Joint_Inductive_and_Transductive_Learning_for_Video_Object_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/maoyunyao/JOINT)
+* [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/microsoft/Swin-Transformer)
+* [Self-supervised Video Object Segmentation by Motion Grouping](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Self-Supervised_Video_Object_Segmentation_by_Motion_Grouping_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/charigyang/motiongrouping)
+* [Vision Transformers for Dense Prediction](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/czczup/ViT-Adapter)
+* [Point Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/qq456cvb/Point-Transformers) 
+* [SOTR: Segmenting Objects with Transformers](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_SOTR_Segmenting_Objects_With_Transformers_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/easton-cau/SOTR)
+* [A Unified Efficient Pyramid Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021W/VSPW/papers/Zhu_A_Unified_Efficient_Pyramid_Transformer_for_Semantic_Segmentation_ICCVW_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/amazon-research/unified-ept)
+* [Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/microsoft/vision-longformer)
+* [Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Simpler_Is_Better_Few-Shot_Semantic_Segmentation_With_Classifier_Weight_Transformer_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/zhiheLu/CWT-for-FSS)
+* [Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World](https://openaccess.thecvf.com/content/ICCV2021W/ACVR/papers/Zhang_Trans4Trans_Efficient_Transformer_for_Transparent_Object_Segmentation_To_Help_Visually_ICCVW_2021_paper.pdf) -**ICCV 2021** -[github]
+* [Vision-Language Transformer and Query Generation for Referring Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Vision-Language_Transformer_and_Query_Generation_for_Referring_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/henghuiding/Vision-Language-Transformer) 
+
 #### NIPs 2021 ####
+* [Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://proceedings.neurips.cc/paper/2021/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf) -**NIPs 2021** -[github](https://github.com/EarthNets/RSI-Classification/blob/1a858a80881757fc2114305f15c1ae26be2c2169/configs/twins/README.md)
+* [
+
 #### MICCIA 2021 ####
 #### mdpi 2021 ####
 #### IEEE 2021 ####
-* [Segmentation applying TAG type label data and Transformer](https://ieeexplore.ieee.org/document/9650042) --[Code]
+* [Segmentation applying TAG type label data and Transformer](https://ieeexplore.ieee.org/document/9650042) -**IEEE 2021** -[github](https://paperswithcode.com/paper/max-deeplab-end-to-end-panoptic-segmentation#code)
+
 #### arXiv 2021 ####
 * 
 ### 2020
