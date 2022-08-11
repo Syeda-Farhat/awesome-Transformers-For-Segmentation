@@ -58,6 +58,7 @@ The structure that we'll use:
 * [LFT-Net: Local Feature Transformer Network for Point Clouds Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9700748) -**IEEE 2022** -[github]
 * [Transformer-based Efficient Salient Instance Segmentation Networks with Orientative Query](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678049) --[Code](https://github.com/ssecv/OQTR)
 * [Bird's-Eye-View Panoptic Segmentation Using Monocular Frontal View Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681287) -**IEEE 2022** -[github]
+* [Looking Outside the Window: Wide-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images](https://ieeexplore.ieee.org/document/9759447) -**IEEE 2022** -[github]
 
 #### MDPI 2022 ####
 * [Enhanced Feature Pyramid Vision Transformer for Semantic Segmentation on Thailand Landsat-8 Corpus](https://www.mdpi.com/2078-2489/13/5/259) -**MDPI 2022** -[github]
@@ -133,10 +134,23 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://arxiv.org/pdf/2112.08275.pdf) -**arXiv 2021** -[github](https://github.com/wjf5203/SeqFormer)
 * [Mask2Former for Video Instance Segmentation](https://arxiv.org/pdf/2112.10764.pdf) -**arXiv 2021** -[github](https://github.com/facebookresearch/Mask2Former)
 * [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537.pdf) -**arXiv 2021** -[github](https://github.com/HuCaoFighting/Swin-Unet)
+* [LeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2107.08623.pdf) -**arXiv 2021** -[github]
+* [ISTR: End-to-End Instance Segmentation with Transformers](https://arxiv.org/pdf/2105.00637.pdf) -**arXiv 2021** -[github](https://github.com/hujiecpp/ISTR)
+* [P2T: Pyramid Pooling Transformer for Scene Understanding](https://arxiv.org/pdf/2106.12011.pdf) -**arXiv 2021** -[github]
+* [Medical Transformer: Universal Brain Encoder for 3D MRI Analysis](https://arxiv.org/pdf/2104.13633.pdf) -**arXiv 2021** -[github]
+* [nnFormer: Interleaved Transformer for Volumetric Segmentation](https://arxiv.org/pdf/2109.03201.pdf) -**arXiv 2021** -[github]
+* [MISSFormer: An Effective Medical Image Segmentation Transformer](https://arxiv.org/pdf/2109.07162.pdf) -**arXiv 2021** -[github]
+* [ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration](https://arxiv.org/pdf/2104.06468.pdf) -**arXiv 2021** -[github]
+* [Pyramid Medical Transformer for Medical Image Segmentation](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf) -**arXiv 2021** -[github]
+* [U-Net Transformer: Self and Cross Attention for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_28) -**arXiv 2021** -[github]
+* [Ds-transunet: Dual swin transformer u-net for medical image segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9785614) -**arXiv 2021** -[github]
+* [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf) -**arXiv 2021** -[github](https://github.com/Beckschen/TransUNet)
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
+
+
 ### 2020
 #### CVPR 2020 ####
 #### ECCV 2020 ####
