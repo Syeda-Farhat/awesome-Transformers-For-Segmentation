@@ -99,6 +99,11 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 #### NIPs 2021 ####
 * [Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://proceedings.neurips.cc/paper/2021/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf) -**NIPs 2021** -[github](https://github.com/EarthNets/RSI-Classification/blob/1a858a80881757fc2114305f15c1ae26be2c2169/configs/twins/README.md)
 * [HRFormer: High-Resolution Transformer for Dense Prediction](https://proceedings.neurips.cc/paper/2021/file/3bbfdde8842a5c44a0323518eec97cbe-Paper.pdf) -**NIPs 2021** -[github](https://github.com/HRNet/HRFormer) 
+* [SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers](https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf) -**NIPs 2021** -[github](https://github.com/NVlabs/SegFormer)
+* [Per-Pixel Classification is Not All You Need for Semantic Segmentation](https://proceedings.neurips.cc/paper/2021/file/950a4152c2b4aa3ad78bdd6b366cc179-Paper.pdf) -**NIPs 2021** -[github](https://github.com/facebookresearch/MaskFormer)
+* [Associating Objects with Transformers for Video Object Segmentation](https://proceedings.neurips.cc/paper/2021/file/147702db07145348245dc5a2f2fe5683-Paper.pdf) -**NIPs 2021** -[github](https://github.com/yoxu515/aot-benchmark)
+* [Video Instance Segmentation using Inter-Frame Communication Transformers](https://proceedings.neurips.cc/paper/2021/file/6f2688a5fce7d48c8d19762b88c32c3b-Paper.pdf) -**NIPs 2021** -[github](https://github.com/sukjunhwang/IFC)
+* [Few-Shot Segmentation via Cycle-Consistent Transformer](https://proceedings.neurips.cc/paper/2021/file/b8b12f949378552c21f28deff8ba8eb6-Paper.pdf) -**NIPs 2021** -[github](https://github.com/GengDavid/CyCTR)
 * []() -**NIPs 2021** -[github]
 * []() -**NIPs 2021** -[github]
 * []() -**NIPs 2021** -[github]
@@ -145,7 +150,7 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * [U-Net Transformer: Self and Cross Attention for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_28) -**arXiv 2021** -[github]
 * [Ds-transunet: Dual swin transformer u-net for medical image segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9785614) -**arXiv 2021** -[github]
 * [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/pdf/2102.04306.pdf) -**arXiv 2021** -[github](https://github.com/Beckschen/TransUNet)
-* []() -**arXiv 2021** -[github]
+* [TransVOS: Video Object Segmentation with Transformers](https://arxiv.org/pdf/2106.00588.pdf) -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
