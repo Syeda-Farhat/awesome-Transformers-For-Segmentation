@@ -35,6 +35,7 @@ The structure that we'll use:
      * [2019](#2019)
         * [IEEE 2019](#IEEE-2019)
         * [arXiv 2019](#arXiv-2019)
+      * [Others](#Others)
   * [Citation](Citation) 
   
 ## Papers
@@ -110,9 +111,24 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * []() -**NIPs 2021** -[github]
 
 #### MICCIA 2021 ####
-#### mdpi 2021 ####
+#### MDPI 2021 ####
+* [Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images](https://www.mdpi.com/2072-4292/13/16/3065) -**MDPI 2021** -[github]
+* [Wildfire Segmentation Using Deep Vision Transformers ](https://www.mdpi.com/2072-4292/13/17/3527) -**MDPI 2021** -[github]
+* [Transformer-Based Decoder Designs for Semantic Segmentation on Remotely Sensed Images ](https://www.mdpi.com/2072-4292/13/24/5100) -**MDPI 2021** -[github](https://github.com/kaopanboonyuen/transformer-based-decoder-designs)
+* []() -**MDPI 2021** -[github]
+* []() -**MDPI 2021** -[github]
 #### IEEE 2021 ####
 * [Segmentation applying TAG type label data and Transformer](https://ieeexplore.ieee.org/document/9650042) -**IEEE 2021** -[github](https://paperswithcode.com/paper/max-deeplab-end-to-end-panoptic-segmentation#code)
+* [Local Memory Attention for Fast Video Semantic Segmentation](https://ieeexplore.ieee.org/document/9636192) --**IEEE 2021** -[github]
+* [A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9648201) -**IEEE 2021** -[github]
+* [STransFuse: Fusing Swin Transformer and Convolutional Neural Network for Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9573374) -**IEEE 2021** -[github]
+* [Swin-Spectral Transformer for Cholangiocarcinoma Hyperspectral Image Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9624405) -**IEEE 2021** -[github]
+* [ECT-NAS: Searching Efficient CNN-Transformers Architecture for Medical Image Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669734) -**IEEE 2021** -[github]
+* [3D Deep Attentive U-Net with Transformer for Breast Tumor Segmentation from Automated Breast Volume Scanner](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9629523) -**IEEE 2021** -[github]
+* [Visual-Semantic Transformer for Face Forgery Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9484407) -**IEEE 2021** -[github]
+* [MaAST: Map Attention with Semantic Transformers for Efficient Visual Navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561058) -**IEEE 2021** -[github]
+* []() -**IEEE 2021** -[github]
+* []() -**IEEE 2021** -[github]
 
 #### arXiv 2021 ####
 * [OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments](https://arxiv.org/pdf/2106.13963.pdf) -**arXiv 2021** -[github]
@@ -162,3 +178,8 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 #### MICCIA 2020 ####
 #### IEEE 2020 ####
 #### arXiv 2020 ####
+### 2019
+#### IEEE 2019 ####
+#### arXiv 2019 ####
+### Others
+### Citation
