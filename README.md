@@ -67,6 +67,7 @@ The structure that we'll use:
 * [TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2201.12785.pdf) -**arXiv 2022** -[github](https://github.com/Wenxuan-1119/TransBTS)
 * [Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images](https://link.springer.com/chapter/10.1007/978-3-031-08999-2_22) -**arXiv 2022** -[github]
 * [Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation](https://arxiv.org/pdf/2202.06498.pdf) -**arXiv 2022** -[github](https://github.com/istarjun/TAFT-SE)
+* [Inverted Pyramid Multi-task Transformer for Dense Scene Understanding](https://arxiv.org/pdf/2203.07997.pdf) -**arXiv 2022** -[github](https://github.com/prismformore/InvPT)
 
 ### 2021
 #### CVPR 2021 ####
@@ -75,7 +76,8 @@ The structure that we'll use:
 * [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective
 with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Rethinking_Semantic_Segmentation_From_a_Sequence-to-Sequence_Perspective_With_Transformers_CVPR_2021_paper.pdf) -**CVPR 2021** -[github](https://github.com/fudan-zvg/SETR)
 * [Sstvos: Sparse spatiotemporal transformers for video object segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Duke_SSTVOS_Sparse_Spatiotemporal_Transformers_for_Video_Object_Segmentation_CVPR_2021_paper.pdf) -**CVPR 2021** -[github](https://github.com/dukebw/SSTVOS)
-
+* [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Locate_Then_Segment_A_Strong_Pipeline_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) -**CVPR 2021** -[github]
+ 
 #### ICCV 2021 ####
 * [Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/wangermeng2021/PVT-tensorflow2)
 * [Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions — Supplemental Materials](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_Pyramid_Vision_Transformer_ICCV_2021_supplemental.pdf) -**ICCV 2021** -[github]
@@ -90,12 +92,16 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * [Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Lu_Simpler_Is_Better_Few-Shot_Semantic_Segmentation_With_Classifier_Weight_Transformer_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/zhiheLu/CWT-for-FSS)
 * [Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World](https://openaccess.thecvf.com/content/ICCV2021W/ACVR/papers/Zhang_Trans4Trans_Efficient_Transformer_for_Transparent_Object_Segmentation_To_Help_Visually_ICCVW_2021_paper.pdf) -**ICCV 2021** -[github]
 * [Vision-Language Transformer and Query Generation for Referring Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Vision-Language_Transformer_and_Query_Generation_for_Referring_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/henghuiding/Vision-Language-Transformer) 
-*[Segmenter: Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/rstrudel/segmenter)
+* [Segmenter: Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf) -**ICCV 2021** -[github](https://github.com/rstrudel/segmenter)
 
 
 #### NIPs 2021 ####
 * [Twins: Revisiting the Design of Spatial Attention in Vision Transformers](https://proceedings.neurips.cc/paper/2021/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf) -**NIPs 2021** -[github](https://github.com/EarthNets/RSI-Classification/blob/1a858a80881757fc2114305f15c1ae26be2c2169/configs/twins/README.md)
-* [
+* [HRFormer: High-Resolution Transformer for Dense Prediction](https://proceedings.neurips.cc/paper/2021/file/3bbfdde8842a5c44a0323518eec97cbe-Paper.pdf) -**NIPs 2021** -[github](https://github.com/HRNet/HRFormer) 
+* []() -**NIPs 2021** -[github]
+* []() -**NIPs 2021** -[github]
+* []() -**NIPs 2021** -[github]
+* []() -**NIPs 2021** -[github]
 
 #### MICCIA 2021 ####
 #### mdpi 2021 ####
@@ -110,13 +116,27 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * [SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation](https://arxiv.org/pdf/2103.03604.pdf) -**arXiv 2021** -[github]
 * [Satellite Image Semantic Segmentation](https://arxiv.org/pdf/2110.05812.pdf) -**arXiv 2021** -[github](https://github.com/YudeWang/UNet-Satellite-Image-Segmentation)
 * [Boosting Few-shot Semantic Segmentation with Transformers](https://arxiv.org/pdf/2108.02266.pdf) -**arXiv 2021** -[github]
+* [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://arxiv.org/pdf/2111.01236.pdf) -**arXiv 2021** -[github](https://github.com/facebookresearch/HRViT)
+* [A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation](https://arxiv.org/pdf/2111.13300.pdf) -**arXiv 2021** -[github](https://github.com/himashi92/VT-UNet)
+* [Dynamic Convolution for 3D Point Cloud Instance Segmentation](https://arxiv.org/pdf/2107.08392.pdf) -**arXiv 2021** -[github]
+* [Fast Point Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Fast_Point_Transformer_CVPR_2022_paper.pdf) -**arXiv 2021** -[github](https://github.com/POSTECH-CVLab/FastPointTransformer)
+* [ViTBIS: Vision Transformer for Biomedical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-90874-4_4) -**arXiv 2021** -[github]
+* [Fully Transformer Networks for Semantic Image Segmentation](https://arxiv.org/pdf/2106.04108.pdf) -**arXiv 2021** -[github]
+* [UNetFormer: A UNet-like Transformer for Efficient Semantic Segmentation of Remote Sensing Urban Scene Imagery](https://arxiv.org/ftp/arxiv/papers/2109/2109.08937.pdf) -**arXiv 2021** -[github]
+* [Unsupervised Brain Anomaly Detection and Segmentation with Transformers](https://arxiv.org/pdf/2102.11650.pdf) -**arXiv 2021** -[github]
+* [few-Shot Temporal Action Localization with Query Adaptive Transformer](https://arxiv.org/pdf/2110.10552.pdf) -**arXiv 2021** -[github](https://github.com/sauradip/fewshotQA)
+* [Cost Aggregation Is All You Need for Few-Shot Segmentation](https://arxiv.org/pdf/2112.11685.pdf) -**arXiv 2021** -[github]
+* [Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers](https://arxiv.org/pdf/2108.06932.pdf) -**arXiv 2021** -[github](https://github.com/DengPingFan/Polyp-PVT)
+* [TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2107.05274.pdf) -**arXiv 2021** -[github]
+* [ASFormer: Transformer for Action Segmentation](https://arxiv.org/pdf/2110.08568.pdf) -**arXiv 2021** -[github](https://github.com/ChinaYi/ASFormer)
+* [TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation](https://arxiv.org/pdf/2107.05188.pdf) -**arXiv 2021** -[github]
+* [SeqFormer: Sequential Transformer for Video Instance Segmentation](https://arxiv.org/pdf/2112.08275.pdf) -**arXiv 2021** -[github](https://github.com/wjf5203/SeqFormer)
+* [Mask2Former for Video Instance Segmentation](https://arxiv.org/pdf/2112.10764.pdf) -**arXiv 2021** -[github](https://github.com/facebookresearch/Mask2Former)
+* [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/pdf/2105.05537.pdf) -**arXiv 2021** -[github](https://github.com/HuCaoFighting/Swin-Unet)
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
 * []() -**arXiv 2021** -[github]
-* []() -**arXiv 2021** -[github]
-* []() -**arXiv 2021** -[github]
-
 ### 2020
 #### CVPR 2020 ####
 #### ECCV 2020 ####
