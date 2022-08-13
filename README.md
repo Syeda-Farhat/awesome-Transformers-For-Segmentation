@@ -36,7 +36,8 @@ The structure that we'll use:
         * [IEEE 2019](#IEEE-2019)
         * [arXiv 2019](#arXiv-2019)
      * [Others](#Others)
-  * [Citation](Citation) 
+  * [Acknowledgements](#Acknowledgements)
+  * [Citation](#Citation) 
   
 ## Papers
 ### Survey
@@ -189,4 +190,7 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 ### Others
 * [TrSeg: Transformer for semantic segmentation](https://pdf.sciencedirectassets.com/271524/1-s2.0-S0167865521X00074/1-s2.0-S016786552100163X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFlNu5rMdOhBm6xZ9JqePuOI4dXGYbZEATfhaQlbBLrlAiEAj4bE9oSC5k6xSVA9lLSk9kE5EPBLQ0Gp7YJa8oduODQq0gQIVRAFGgwwNTkwMDM1NDY4NjUiDAmrnEwr%2BNntVOsrWiqvBN16AKDRXC%2Byc6u4JUuIbuLxzM%2F4lYkoM6UwiA6zDq92OmgFeHuI2wQLDBZGZ6s3Qh9ZubxhcSEnIrRY8LRSxfSb9xXCpy7LG4bMkdl1qQoGUN8rGB2lk%2BBfRT8ar7dXSGpoanKgoLVHvORbp1nrPXPhv08S6udDxxDDyF3n7hpll2E%2BiOGHf0iIrJNV11KpowVxbhMJLepoBayXYyXEALRfbFBLtDRUTv3xH%2BdNaAAe%2BiUL3v7DLKuDOam7EFHnSL70zCo6UsftEnG%2Byzzo7KxVlUJNY7Dp2vMEw0PDmhgcV17On%2BflhTdrIWT5ouoEavYbt4Si093fFWYiyRBGDDFInT010X%2BPXg3VM3WVXPez5cQl6Zvym4GUiTwEAm6yGLepoJ4gbEurq8tSLcZ5mHwrviBsbI4a3RgFpQfbKo16TvNr1VPXMIkgecIWOsD5M%2FMCa5aHMypvyK69jkIOgVoeoP1MUK2S5aX8FpVo6Fv5xyQngHPMuDS2LTANbQG7H1ZANOpQ%2FY%2B5OviwIAj7QXwF0ulIPJFqzbo%2BUeoX7eWC4qjzX6ZCfZuneeyxeDpyhLBCMw8UkrfsB%2FBGb3JF%2BGKZ0VEjIMdy9innc8ovqmhVQDoRDMKCpiPikc6wfyILV46MFsoDw5ZEOi9TFMmT9iWldq67HRzcBZhRbjVi9cM5Mb6GrDgGPpUJiCme5IqwWMwe6uVAn0SoTaBTAPy200ZD7cT7%2Bc0hXt53V5ZzPDswloTSlwY6qQGxaQm55B6%2FeL6424W%2BCVNou5VFr2cenMpiBej21Qb1Ldjnz8ycP8v0kG7mBKWqvXzFdCbRgQFk3G1%2FGhFZyy%2FynTlXbCwnipxIhI6qFV0WpqTV7DxmM2XCeyju8N5%2Btgf2gYxXvzi8nxU018Vf%2FjfePePahuDjmkMHQtHgi8J7BLReqYP0kEXgpmPq%2BOXcHbD71LX%2BJ1LJChcb8v2BkdxZkiTeMk9AZqwB&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220811T051212Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWCIX64SK%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a9e1160c1edb9fac03b1c9610adcdefbfce6f4aed9d295011ba253ceb82eaf69&hash=08500206c3b0e4ca9db6b86bfc8c0e7650f8c8b461b8046fc174940308c8d0e0&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S016786552100163X&tid=spdf-15e8c3c6-591f-4da0-b719-533e86352601&sid=e74741ce47d48945d12bc644efe2a56d70c7gxrqb&type=client&ua=51535f06555c56510200&rr=738e7992bb77ca8c) -**Pattern Recognition Letters 2021** -[github](https://github.com/youngsjjn/TrSeg)
 * [Video Semantic Segmentation via Sparse Temporal Transformer](https://dl.acm.org/doi/abs/10.1145/3474085.3475409?casa_token=I1PVo2St5EMAAAAA:WWlinaGz9yYZrXkMDTqBySg7x7uyfYqTHxeIxLy_zQ8pHwE_4WKx5kClZdjfLIoNCv3uig0ZEEDmBA) -**ACM 2021** -[github]
+
+### Acknowledgements
+We appreciate the excellent work of the authors mentioned above.
 ### Citation
