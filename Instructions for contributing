@@ -10,7 +10,7 @@ Please make sure your pull request follows these rules:
 - Before submitting, make sure the item you are adding is relevant to the **Transformer-based segmentation**.
 - Look over past recommendations before submitting your own, since they could already exist.
 - Create a separate pull request for every recommendation.
-- Adopt the format: 
+- Adopt the format: Paper Name(Link) -Conference Name and Year -[github](link)
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the repository.
 
