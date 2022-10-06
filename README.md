@@ -51,6 +51,10 @@ The structure that we'll use:
 #### CVPR 2022 ####
 * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Class_Token_Transformer_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github]
 * [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_TopFormer_Token_Pyramid_Transformer_for_Mobile_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github](https://github.com/hustvl/TopFormer)
+* [Masked-attention Mask Transformer for Universal Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Masked-Attention_Mask_Transformer_for_Universal_Image_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github](https://github.com/facebookresearch/Mask2Former)
+* [Temporally Efficient Vision Transformer for Video Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Temporally_Efficient_Vision_Transformer_for_Video_Instance_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github](https://github.com/hustvl/TeViT)
+* [An MIL-Derived Transformer for Weakly Supervised Point Cloud Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_An_MIL-Derived_Transformer_for_Weakly_Supervised_Point_Cloud_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github]
+* [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Multi-Scale_High-Resolution_Vision_Transformer_for_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github](https://github.com/facebookresearch/HRViT)
 
 #### WACV 2022 ####
 * [Unetr: Transformers for 3d medical image segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github](https://github.com/tamasino52/UNETR)
