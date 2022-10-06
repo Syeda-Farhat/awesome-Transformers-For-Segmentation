@@ -14,6 +14,7 @@ The structure that we'll use:
 - [Papers](#papers)
      * [Survey](#survey)
      * [2022](#2022)
+        * [CVPR 2022](#CVPR-2022)
         * [WACV 2022](#WACV-2022)
         * [IEEE 2022](#IEEE-2022)
         * [MDPI 2022](#MDPI-2022)
@@ -47,6 +48,10 @@ The structure that we'll use:
 * [A Survey on Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9716741) -**IEEE 2022**.
 * [Vision Transformers in Medical Computer Vision - A Contemplative Retrospection](https://arxiv.org/ftp/arxiv/papers/2203/2203.15269.pdf) -**arXiv 2022**.
 ### 2022
+#### CVPR 2022 ####
+* [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Class_Token_Transformer_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github]
+* [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_TopFormer_Token_Pyramid_Transformer_for_Mobile_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github](https://github.com/hustvl/TopFormer)
+
 #### WACV 2022 ####
 * [Unetr: Transformers for 3d medical image segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github](https://github.com/tamasino52/UNETR)
 * [AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Yan_AFTer-UNet_Axial_Fusion_Transformer_UNet_for_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github]
