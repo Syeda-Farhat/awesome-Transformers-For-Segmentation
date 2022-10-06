@@ -55,6 +55,7 @@ The structure that we'll use:
 * [Temporally Efficient Vision Transformer for Video Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Temporally_Efficient_Vision_Transformer_for_Video_Instance_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github](https://github.com/hustvl/TeViT)
 * [An MIL-Derived Transformer for Weakly Supervised Point Cloud Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_An_MIL-Derived_Transformer_for_Weakly_Supervised_Point_Cloud_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github]
 * [Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Multi-Scale_High-Resolution_Vision_Transformer_for_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github](https://github.com/facebookresearch/HRViT)
+* [MPViT : Multi-Path Vision Transformer for Dense Prediction](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MPViT_Multi-Path_Vision_Transformer_for_Dense_Prediction_CVPR_2022_paper.pdf) -**CVPR 2022** -[github]
 
 #### WACV 2022 ####
 * [Unetr: Transformers for 3d medical image segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github](https://github.com/tamasino52/UNETR)
