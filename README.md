@@ -13,6 +13,8 @@ The structure that we'll use:
 
 - [Papers](#papers)
      * [Survey](#survey)
+     * [2023](#2023)
+        * [WACV 2023](#WACV-2023)
      * [2022](#2022)
         * [CVPR 2022](#CVPR-2022)
         * [WACV 2022](#WACV-2022)
@@ -47,6 +49,13 @@ The structure that we'll use:
 * [Transformers in computational visual media: A survey](https://link.springer.com/article/10.1007/s41095-021-0247-3) -**SpringerLink 2022**.
 * [A Survey on Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9716741) -**IEEE 2022**.
 * [Vision Transformers in Medical Computer Vision - A Contemplative Retrospection](https://arxiv.org/ftp/arxiv/papers/2203/2203.15269.pdf) -**arXiv 2022**.
+###2023
+#### WACV 2023 ####
+* [HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Heidari_HiFormer_Hierarchical_Multi-Scale_Representations_Using_Transformers_for_Medical_Image_Segmentation_WACV_2023_paper.pdf) -**WACV 2023** -[github](https://github.com/amirhossein-kz/HiFormer)
+* [SCTS: Instance Segmentation of Single Cells Using a Transformer-Based Semantic-Aware Model and Space-Filling Augmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Zhou_SCTS_Instance_Segmentation_of_Single_Cells_Using_a_Transformer-Based_Semantic-Aware_WACV_2023_paper.pdf) -**WACV 2023** -[github]
+*[Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Themyr_Full_Contextual_Attention_for_Multi-Resolution_Transformers_in_Semantic_Segmentation_WACV_2023_paper.pdf) -**WACV 2023** -[github](https://github.com/themyrl/glam)
+*[The Fully Convolutional Transformer for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Tragakis_The_Fully_Convolutional_Transformer_for_Medical_Image_Segmentation_WACV_2023_paper.pdf) -**WACV 2023** -[github](https://github.com/Thanos-DB/FullyConvolutionalTransformer)
+*[Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?](https://openaccess.thecvf.com/content/WACV2023/papers/Bouniot_Towards_Few-Annotation_Learning_for_Object_Detection_Are_Transformer-Based_Models_More_WACV_2023_paper.pdf) -**WACV 2023** -[github]
 ### 2022
 #### CVPR 2022 ####
 * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Class_Token_Transformer_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github]
