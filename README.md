@@ -134,7 +134,7 @@ with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_R
 * [Transformer-Based Decoder Designs for Semantic Segmentation on Remotely Sensed Images ](https://www.mdpi.com/2072-4292/13/24/5100) -**MDPI 2021** -[github](https://github.com/kaopanboonyuen/transformer-based-decoder-designs)
 * [Efficient Transformer for Remote Sensing Image Segmentation ](https://www.mdpi.com/2072-4292/13/18/3585/htm) -**MDPI 2021** -[github](https://github.com/Syeda-Farhat/Efficient-Transformer)
 #### IEEE 2021 ####
-* [Segmentation applying TAG type label data and Transformer](https://ieeexplore.ieee.org/document/9650042) -**IEEE 2021** -[github](https://paperswithcode.com/paper/max-deeplab-end-to-end-panoptic-segmentation#code)
+* [Segmentation applying TAG type label data and Transformer](https://ieeexplore.ieee.org/document/9650042) -**IEEE 2021** -[github]
 * [Local Memory Attention for Fast Video Semantic Segmentation](https://ieeexplore.ieee.org/document/9636192) --**IEEE 2021** -[github]
 * [A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9648201) -**IEEE 2021** -[github]
 * [STransFuse: Fusing Swin Transformer and Convolutional Neural Network for Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9573374) -**IEEE 2021** -[github]
