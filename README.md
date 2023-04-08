@@ -15,6 +15,9 @@ The structure that we'll use:
      * [Survey](#survey)
      * [2023](#2023)
         * [WACV 2023](#WACV-2023)
+        * [IEEE 2023](#IEEE-2023)
+        * [MDPI 2023](#MDPI-2023)
+        * [arXiv 2023](#arXiv-2023)
      * [2022](#2022)
         * [CVPR 2022](#CVPR-2022)
         * [WACV 2022](#WACV-2022)
@@ -55,6 +58,46 @@ The structure that we'll use:
 * [Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Themyr_Full_Contextual_Attention_for_Multi-Resolution_Transformers_in_Semantic_Segmentation_WACV_2023_paper.pdf) -**WACV 2023** -[github](https://github.com/themyrl/glam)
 * [The Fully Convolutional Transformer for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Tragakis_The_Fully_Convolutional_Transformer_for_Medical_Image_Segmentation_WACV_2023_paper.pdf) -**WACV 2023** -[github](https://github.com/Thanos-DB/FullyConvolutionalTransformer)
 * [Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?](https://openaccess.thecvf.com/content/WACV2023/papers/Bouniot_Towards_Few-Annotation_Learning_for_Object_Detection_Are_Transformer-Based_Models_More_WACV_2023_paper.pdf) -**WACV 2023** -[github]
+* [BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs](https://openaccess.thecvf.com/content/WACV2023/papers/Peng_BEVSegFormer_Birds_Eye_View_Semantic_Segmentation_From_Arbitrary_Camera_Rigs_WACV_2023_paper.pdf) -** WACV 2023** -[github]
+* [Medical Image Segmentation via Cascaded Attention Decoding](https://openaccess.thecvf.com/content/WACV2023/papers/Rahman_Medical_Image_Segmentation_via_Cascaded_Attention_Decoding_WACV_2023_paper.pdf) -** WACV 2023** -[github]
+* [Unsupervised multi-object segmentation using attention and soft-argmax](https://openaccess.thecvf.com/content/WACV2023/papers/Sauvalle_Unsupervised_Multi-Object_Segmentation_Using_Attention_and_Soft-Argmax_WACV_2023_paper.pdf) -** WACV 2023** -[github](https://github.com/BrunoSauvalle/AST)
+#### IEEE 2023 ####
+* [The Power of Fragmentation: A Hierarchical Transformer Model for Structural Segmentation in Symbolic Music Generation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10089423) -**IEEE 2023** -[github]
+* [Local-Global Context Aware Transformer for Language-Guided Video Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10083244) -**IEEE 2023** -[github](https://github.com/leonnnop/Locater)
+* [Medical Image Segmentation Based on Transformer and HarDNet Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10042417) -**IEEE 2023** -[github]
+* [A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093043) -**IEEE 2023** -[github](https://github.com/suyukun666/UFO)
+* [The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050127) -**IEEE 2023** -[github]
+* [RNGDet++: Road Network Graph Detection by Transformer with Instance Segmentation and Multi-scale Features Enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093124) -**IEEE 2023** -[github](https://github.com/TonyXuQAQ/RNGDetPlusPlus)
+* [RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10012398) -**IEEE 2023** -[github]
+* [Unsupervised Visual Representation Learning Based on Segmentation of Geometric Pseudo-Shapes for Transformer-Based Medical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10018448) -**IEEE 2023** -[github]
+* [CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056308) -**IEEE 2023** -[github]
+* [RSSFormer: Foreground Saliency Enhancement for Remote Sensing Land-Cover Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10026298) -**IEEE 2023** -[github]
+* [Normal-Knowledge-Based Pavement Defect Segmentation Using Relevance-Aware and Cross-Reasoning Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10013944) -**IEEE 2023** -[github]
+#### MDPI 2023 ####
+* [High-Resolution Swin Transformer for Automatic Medical Image Segmentation](https://www.mdpi.com/1424-8220/23/7/3420) -**MDPI 2023** -[github]
+* [Multi-Swin Mask Transformer for Instance Segmentation of Agricultural Field Extraction](https://www.mdpi.com/2072-4292/15/3/549) -**MDPI 2023** -[github]
+* [Enhancing Mask Transformer with Auxiliary Convolution Layers for Semantic Segmentation](https://www.mdpi.com/1424-8220/23/2/581) -**MDPI 2023** -[github]
+* [Efficient Lung Cancer Image Classification and Segmentation Algorithm Based on an Improved Swin Transformer](https://www.mdpi.com/2079-9292/12/4/1024) -**MDPI 2023** -[github]
+* [Transformer-Based Weed Segmentation for Grass Management](https://www.mdpi.com/1424-8220/23/1/65) -**MDPI 2023** -[github]
+* [RCCT-ASPPNet: Dual-Encoder Remote Image Segmentation Based on Transformer and ASPP](https://www.mdpi.com/2072-4292/15/2/379) -**MDPI 2023** -[github]
+* [MCANet: A Multi-Branch Network for Cloud/Snow Segmentation in High-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/15/4/1055) -**MDPI 2023** -[github]
+* [Muscle Cross-Sectional Area Segmentation in Transverse Ultrasound Images Using Vision Transformers](https://www.mdpi.com/2075-4418/13/2/217) -**MDPI 2023** -[github]
+* [MCAFNet: A Multiscale Channel Attention Fusion Network for Semantic Segmentation of Remote Sensing Images](https://www.mdpi.com/2072-4292/15/2/361) -**MDPI 2023** -[github]
+#### arXiv 2023 ####
+* [Temporal Segment Transformer for Action Segmentation](https://arxiv.org/pdf/2302.13074.pdf) -**arXiv 2023** -[github]
+* [SEAFORMER: SQUEEZE-ENHANCED AXIAL TRANSFORMER FOR MOBILE SEMANTIC SEGMENTATION](https://arxiv.org/pdf/2301.13156.pdf) -**arXiv 2023** -[github]
+* [MP-Former: Mask-Piloted Transformer for Image Segmentation](https://arxiv.org/pdf/2303.07336.pdf) -**arXiv 2023** -[github]
+* [MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer](https://arxiv.org/pdf/2301.11798.pdf) -**arXiv 2023** -[github]
+* [SwinVFTR: A Novel Volumetric Feature-learning Transformer for 3D OCT Fluid Segmentation](https://arxiv.org/pdf/2303.09233.pdf) -**arXiv 2023** -[github]
+* [Towards Robust Video Instance Segmentation with Temporal-Aware Transformer](https://arxiv.org/pdf/2301.09416.pdf) -**arXiv 2023** -[github]
+* [Head-Free Lightweight Semantic Segmentation with Linear Transformer](https://arxiv.org/pdf/2301.04648.pdf) -**arXiv 2023** -[github]
+* [FullStop: Punctuation and Segmentation Prediction for Dutch with Transformers](https://arxiv.org/pdf/2301.03319.pdf) -**arXiv 2023** -[github]
+* [Cooperation Learning Enhanced Colonic Polyp Segmentation Based on Transformer-CNN Fusion](https://arxiv.org/ftp/arxiv/papers/2301/2301.06892.pdf) -**arXiv 2023** -[github]
+* [SAT: Size-Aware Transformer for 3D Point Cloud Semantic Segmentation](https://arxiv.org/pdf/2301.06869.pdf) -**arXiv 2023** -[github]
+* [Effects of Architectures on Continual Semantic Segmentation](https://arxiv.org/pdf/2302.10718.pdf) -**arXiv 2023** -[github]
+* [MECPformer: Multi-estimations Complementary Patch with CNN-Transformers for Weakly Supervised Semantic Segmentation](https://github.com/ChunmengLiu1/MECPformer) -**arXiv 2023** -[github](https://arxiv.org/pdf/2303.10689.pdf)
+* [PSST! Prosodic Speech Segmentation with Transformers](https://arxiv.org/pdf/2302.01984.pdf) -**arXiv 2023** -[github]
+* [TRANSADAPT: A TRANSFORMATIVE FRAMEWORK FOR ONLINE TEST TIME ADAPTIVE SEMANTIC SEGMENTATION](https://arxiv.org/pdf/2302.14611.pdf) -**arXiv 2023** -[github]
 ### 2022
 #### CVPR 2022 ####
 * [Multi-class Token Transformer for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Class_Token_Transformer_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) -**CVPR 2022** -[github]
