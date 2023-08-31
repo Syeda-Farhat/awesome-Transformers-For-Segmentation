@@ -52,6 +52,16 @@ The structure that we'll use:
 * [Transformers in computational visual media: A survey](https://link.springer.com/article/10.1007/s41095-021-0247-3) -**SpringerLink 2022**.
 * [A Survey on Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9716741) -**IEEE 2022**.
 * [Vision Transformers in Medical Computer Vision - A Contemplative Retrospection](https://arxiv.org/ftp/arxiv/papers/2203/2203.15269.pdf) -**arXiv 2022**.
+### 2023
+#### CVPR 2023 ####
+* [VoxFormer: Sparse Voxel Transformer for Camera-Based 3D Semantic Scene Completion](https://openaccess.thecvf.com/content/CVPR2023/html/Li_VoxFormer_Sparse_Voxel_Transformer_for_Camera-Based_3D_Semantic_Scene_Completion_CVPR_2023_paper.html) -**CVPR 2023** -[github]()
+* []() -**CVPR 2023** -[github]()
+* []() -**CVPR 2023** -[github]()
+* []() -**CVPR 2023** -[github]()
+* []() -**CVPR 2023** -[github]()
+* []() -**CVPR 2023** -[github]()
+* []() -**CVPR 2023** -[github]()
+* []() -**CVPR 2023** -[github]()
 #### WACV 2023 ####
 * [HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Heidari_HiFormer_Hierarchical_Multi-Scale_Representations_Using_Transformers_for_Medical_Image_Segmentation_WACV_2023_paper.pdf) -**WACV 2023** -[github](https://github.com/amirhossein-kz/HiFormer)
 * [SCTS: Instance Segmentation of Single Cells Using a Transformer-Based Semantic-Aware Model and Space-Filling Augmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Zhou_SCTS_Instance_Segmentation_of_Single_Cells_Using_a_Transformer-Based_Semantic-Aware_WACV_2023_paper.pdf) -**WACV 2023** -[github]
