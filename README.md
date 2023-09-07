@@ -1,4 +1,4 @@
-## Transfomers For Segmentation
+## Transfomers For Segmentation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 The suggested list is a compendium of works that use **Transformer-Based Segmentation** techniques for **Semantic and Instance Segmentation** of image or video datasets.
 
