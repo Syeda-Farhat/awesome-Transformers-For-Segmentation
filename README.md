@@ -56,6 +56,7 @@ The structure that we'll use:
 * [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/pdf/2203.01536.pdf) -**arXiv 2022**.
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/pdf/2209.13232.pdf) -**arXiv 2022**.
 * [Semantic segmentation using Vision Transformers: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0952197623008539) -**ELSEVIER 2023**.
+* [A Comprehensive Survey of Transformers for Computer Vision ](https://www.mdpi.com/2504-446X/7/5/287) -**MDPI 2023**.
 ### 2023
 #### CVPR 2023 ####
 * [VoxFormer: Sparse Voxel Transformer for Camera-Based 3D Semantic Scene Completion](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_VoxFormer_Sparse_Voxel_Transformer_for_Camera-Based_3D_Semantic_Scene_Completion_CVPR_2023_paper.pdf) -**CVPR 2023** -[github](https://github.com/NVlabs/VoxFormer)
