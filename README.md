@@ -12,7 +12,7 @@ The structure that we'll use:
 ## Table of Contents
 
 - [Papers](#papers)
-     * [Survey](#survey)
+     * [Survey Papers](#survey-Papers)
      * [2023](#2023)
         * [CVPR 2023](#CVPR-2023)
         * [WACV 2023](#WACV-2023)
@@ -47,7 +47,7 @@ The structure that we'll use:
   * [Citation](#Citation) 
   
 ## Papers
-### Survey
+### Survey Papers
 * [A Survey of Transformers](https://arxiv.org/pdf/2106.04554.pdf) -**arXiv 2021**.
 * [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) -**arXiv 2021**.
 * [Transformers in computational visual media: A survey](https://link.springer.com/article/10.1007/s41095-021-0247-3) -**SpringerLink 2022**.
@@ -57,6 +57,7 @@ The structure that we'll use:
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/pdf/2209.13232.pdf) -**arXiv 2022**.
 * [Semantic segmentation using Vision Transformers: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0952197623008539) -**ELSEVIER 2023**.
 * [A Comprehensive Survey of Transformers for Computer Vision ](https://www.mdpi.com/2504-446X/7/5/287) -**MDPI 2023**.
+* [Transformers in Remote Sensing: A Survey](https://www.mdpi.com/2072-4292/15/7/1860) -**MDPI 2023**.
 ### 2023
 #### CVPR 2023 ####
 * [VoxFormer: Sparse Voxel Transformer for Camera-Based 3D Semantic Scene Completion](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_VoxFormer_Sparse_Voxel_Transformer_for_Camera-Based_3D_Semantic_Scene_Completion_CVPR_2023_paper.pdf) -**CVPR 2023** -[github](https://github.com/NVlabs/VoxFormer)
