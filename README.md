@@ -54,12 +54,13 @@ The structure that we'll use:
 * [A Survey on Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9716741) -**IEEE 2022**.
 * [Vision Transformers in Medical Computer Vision - A Contemplative Retrospection](https://arxiv.org/ftp/arxiv/papers/2203/2203.15269.pdf) -**arXiv 2022**.
 * [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/pdf/2203.01536.pdf) -**arXiv 2022**.
+* [3D Vision with Transformers: A Survey](https://arxiv.org/pdf/2208.04309.pdf) -**arXiv 2022**.
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/pdf/2209.13232.pdf) -**arXiv 2022**.
 * [Semantic segmentation using Vision Transformers: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0952197623008539) -**ELSEVIER 2023**.
 * [A Comprehensive Survey of Transformers for Computer Vision ](https://www.mdpi.com/2504-446X/7/5/287) -**MDPI 2023**.
 * [Transformers in Remote Sensing: A Survey](https://www.mdpi.com/2072-4292/15/7/1860) -**MDPI 2023**.
 * [A Survey of Visual Transformers](https://ieeexplore.ieee.org/abstract/document/10088164) -**IEEE 2023**.
-* []() -**IEEE 2023**.
+* 
 * []() -**IEEE 2023**.
 ### 2023
 #### CVPR 2023 ####
