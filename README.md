@@ -56,6 +56,7 @@ The structure that we'll use:
 * [Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work](https://arxiv.org/pdf/2203.01536.pdf) -**arXiv 2022**.
 * [3D Vision with Transformers: A Survey](https://arxiv.org/pdf/2208.04309.pdf) -**arXiv 2022**.
 * [A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective](https://arxiv.org/pdf/2209.13232.pdf) -**arXiv 2022**.
+* [VISION TRANSFORMERS FOR ACTION RECOGNITION: A SURVEY](https://arxiv.org/pdf/2209.05700.pdf) -**arXiv 2022**.
 * [Vision transformers for dense prediction: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0950705122007821) -**ELSEVIER 2022**.
 * [Semantic segmentation using Vision Transformers: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0952197623008539) -**ELSEVIER 2023**.
 * [A Comprehensive Survey of Transformers for Computer Vision ](https://www.mdpi.com/2504-446X/7/5/287) -**MDPI 2023**.
