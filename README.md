@@ -71,7 +71,8 @@ The structure that we'll use:
 * [2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_2D-3D_Interlaced_Transformer_for_Point_Cloud_Segmentation_with_Scene-Level_Supervision_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/jimmy15923/mit)
 * [CDAC: Cross-domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_CDAC_Cross-domain_Attention_Consistency_in_Transformer_for_Domain_Adaptive_Semantic_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/wangkaihong/CDAC)
 * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_A_Good_Student_is_Cooperative_and_Reliable_CNN-Transformer_Collaborative_Learning_ICCV_2023_paper.pdf) -**ICCV 2023** -[github]
-* []() -**ICCV 2023** -[github]()
+* [Efficient 3D Semantic Segmentation with Superpoint Transformer](https://openaccess.thecvf.com/content/ICCV2023/papers/Robert_Efficient_3D_Semantic_Segmentation_with_Superpoint_Transformer_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](github.com/
+drprojects/superpoint_transformer)
 * []() -**ICCV 2023** -[github]()
 #### CVPR 2023 ####
 * [VoxFormer: Sparse Voxel Transformer for Camera-Based 3D Semantic Scene Completion](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_VoxFormer_Sparse_Voxel_Transformer_for_Camera-Based_3D_Semantic_Scene_Completion_CVPR_2023_paper.pdf) -**CVPR 2023** -[github](https://github.com/NVlabs/VoxFormer)
