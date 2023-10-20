@@ -67,8 +67,8 @@ The structure that we'll use:
 ### 2023
 #### ICCV 2023 ####
 * [Mask-Attention-Free Transformer for 3D Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lai_Mask-Attention-Free_Transformer_for_3D_Instance_Segmentation_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)
-* [Query Refinement Transformer for 3D Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Query_Refinement_Transformer_for_3D_Instance_Segmentation_ICCV_2023_paper.pdf) -**ICCV 2023** -[github]()
-* []() -**ICCV 2023** -[github]()
+* [Query Refinement Transformer for 3D Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Query_Refinement_Transformer_for_3D_Instance_Segmentation_ICCV_2023_paper.pdf) -**ICCV 2023** -[github]
+* [2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_2D-3D_Interlaced_Transformer_for_Point_Cloud_Segmentation_with_Scene-Level_Supervision_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/jimmy15923/mit)
 * []() -**ICCV 2023** -[github]()
 * []() -**ICCV 2023** -[github]()
 * []() -**ICCV 2023** -[github]()
