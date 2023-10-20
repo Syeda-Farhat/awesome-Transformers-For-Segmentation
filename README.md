@@ -69,8 +69,7 @@ The structure that we'll use:
 * [Mask-Attention-Free Transformer for 3D Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lai_Mask-Attention-Free_Transformer_for_3D_Instance_Segmentation_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)
 * [Query Refinement Transformer for 3D Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Query_Refinement_Transformer_for_3D_Instance_Segmentation_ICCV_2023_paper.pdf) -**ICCV 2023** -[github]
 * [2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_2D-3D_Interlaced_Transformer_for_Point_Cloud_Segmentation_with_Scene-Level_Supervision_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/jimmy15923/mit)
-* [CDAC: Cross-domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_CDAC_Cross-domain_Attention_Consistency_in_Transformer_for_Domain_Adaptive_Semantic_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/
-wangkaihong/CDAC)
+* [CDAC: Cross-domain Attention Consistency in Transformer for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_CDAC_Cross-domain_Attention_Consistency_in_Transformer_for_Domain_Adaptive_Semantic_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/wangkaihong/CDAC)
 * []() -**ICCV 2023** -[github]()
 * []() -**ICCV 2023** -[github]()
 * []() -**ICCV 2023** -[github]()
