@@ -23,6 +23,7 @@ The structure that we'll use:
      * [2022](#2022)
         * [CVPR 2022](#CVPR-2022)
         * [WACV 2022](#WACV-2022)
+        * [NIPs 2022](#NIPs-2022)
         * [IEEE 2022](#IEEE-2022)
         * [MDPI 2022](#MDPI-2022)
         * [arXiv 2022](#arXiv-2022)
