@@ -153,7 +153,7 @@ The structure that we'll use:
 #### NIPs 2022 ####
 * [SegViT: Semantic Segmentation with Plain Vision Transformerss](https://proceedings.neurips.cc/paper_files/paper/2022/file/20189b1aaa8edbb6d8bd6c1067ab5f3f-Paper-Conference.pdf) -**NIPs 2022** -[github](https://github.com/zbwxp/SegVit)
 * [Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f7fef21d1fb3e950b12b50ad7f395e31-Abstract-Conference.html) -**NIPs 2022** -[github]
-* [Spatial-Temporal Transformer for 3D Point Cloud Sequences](https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf) -**WACV 2022** -[github]
+* [RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer](https://proceedings.neurips.cc/paper_files/paper/2022/file/30e10e671c5e43edb67eb257abb6c3ea-Paper-Conference.pdf) -**NIPs 2022** -[github]
 
 #### IEEE 2022 ####
 * [Swin Transformer Embedding UNet for Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686686) -**IEEE 2022** -[github]
