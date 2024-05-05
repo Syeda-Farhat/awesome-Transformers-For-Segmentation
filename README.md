@@ -149,6 +149,12 @@ The structure that we'll use:
 * [Unetr: Transformers for 3d medical image segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github](https://github.com/tamasino52/UNETR)
 * [AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Yan_AFTer-UNet_Axial_Fusion_Transformer_UNet_for_Medical_Image_Segmentation_WACV_2022_paper.pdf) -**WACV 2022** -[github]
 * [Spatial-Temporal Transformer for 3D Point Cloud Sequences](https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf) -**WACV 2022** -[github]
+
+#### NeurIPS 2022 ####
+* [SegViT: Semantic Segmentation with Plain Vision Transformerss]([https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/20189b1aaa8edbb6d8bd6c1067ab5f3f-Paper-Conference.pdf) -**NIPs 2022** -[github](https://github.com/zbwxp/SegVit)
+* [Spatial-Temporal Transformer for 3D Point Cloud Sequences](https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf) -**WACV 2022** -[github]
+* [Spatial-Temporal Transformer for 3D Point Cloud Sequences](https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf) -**WACV 2022** -[github]
+
 #### IEEE 2022 ####
 * [Swin Transformer Embedding UNet for Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686686) -**IEEE 2022** -[github]
 * [Transformer and CNN Hybrid Deep Neural Network for Semantic Segmentation of Very-high-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686732) -**IEEE 2022** -[github]
