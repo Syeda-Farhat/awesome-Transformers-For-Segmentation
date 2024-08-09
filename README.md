@@ -64,6 +64,7 @@ The structure that we'll use:
 * [A Comprehensive Survey of Transformers for Computer Vision ](https://www.mdpi.com/2504-446X/7/5/287) -**MDPI 2023**.
 * [Transformers in Remote Sensing: A Survey](https://www.mdpi.com/2072-4292/15/7/1860) -**MDPI 2023**.
 * [A Survey of Visual Transformers](https://ieeexplore.ieee.org/abstract/document/10088164) -**IEEE 2023**.
+* [Transformer-Based Visual Segmentation: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10613466) -**IEEE 2024**.
 
 ### 2023
 #### ICCV 2023 ####
