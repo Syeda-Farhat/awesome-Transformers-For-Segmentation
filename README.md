@@ -4,7 +4,7 @@ The suggested list is a compendium of works that use **Transformer-Based Segment
 
 ## Contribution
 You can add to this repository; we would be grateful. 
-Please feel free to send me [pull requests](https://github.com/Syeda-Farhat/awesome-Transformers-For-Segmentation/pulls) or email (iamsyedafarhat@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/Syeda-Farhat/awesome-Transformers-For-Segmentation/pulls)
 
 The structure that we'll use:  
 - [Paper Name] (link) -**Conference Name and Year** -[github] (link)
