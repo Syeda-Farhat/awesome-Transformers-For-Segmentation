@@ -13,6 +13,9 @@ The structure that we'll use:
 
 - [Papers](#papers)
      * [Survey Papers](#survey-Papers)
+     * [2024](#2024)
+         * [CVPR 2024](#CVPR-2024)
+         * [IEEE 2024](#IEEE-2024) 
      * [2023](#2023)
         * [ICCV 2023](#ICCV-2023)
         * [CVPR 2023](#CVPR-2023)
