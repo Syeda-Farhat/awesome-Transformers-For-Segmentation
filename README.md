@@ -68,7 +68,11 @@ The structure that we'll use:
 * [Transformers in Remote Sensing: A Survey](https://www.mdpi.com/2072-4292/15/7/1860) -**MDPI 2023**.
 * [A Survey of Visual Transformers](https://ieeexplore.ieee.org/abstract/document/10088164) -**IEEE 2023**.
 * [Transformer-Based Visual Segmentation: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10613466) -**IEEE 2024**.
+### 2024
+#### CVPR 2024 ####
+* [SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Perera_SegFormer3D_An_Efficient_Transformer_for_3D_Medical_Image_Segmentation_CVPRW_2024_paper.pdf) -**CVPR 2024** -[github](https://github.com/OSUPCVLab/SegFormer3D)
 
+#### IEEE 2024 ####
 ### 2023
 #### ICCV 2023 ####
 * [Mask-Attention-Free Transformer for 3D Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lai_Mask-Attention-Free_Transformer_for_3D_Instance_Segmentation_ICCV_2023_paper.pdf) -**ICCV 2023** -[github](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)
