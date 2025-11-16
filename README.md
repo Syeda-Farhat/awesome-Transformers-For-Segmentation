@@ -78,6 +78,8 @@ The structure that we'll use:
 * [Unlocking the Potential of Pre-trained Vision Transformers for Few-Shot Semantic Segmentation through Relationship Descriptors](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Unlocking_the_Potential_of_Pre-trained_Vision_Transformers_for_Few-Shot_Semantic_CVPR_2024_paper.pdf) -**CVPR 2024** -[github](https://github.com/ZiqinZhou66/FewSegwithRD)
 * [RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2023/papers/Ando_RangeViT_Towards_Vision_Transformers_for_3D_Semantic_Segmentation_in_Autonomous_CVPR_2023_paper.pdf) -**CVPR 2024** -[github](https://github.com/valeoai/rangevit)
 * [HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_HGFormer_Hierarchical_Grouping_Transformer_for_Domain_Generalized_Semantic_Segmentation_CVPR_2023_paper.pdf) -**CVPR 2024** -[github](https://github.com/dingjiansw101/HGFormer)
+* [Your ViT is Secretly an Image Segmentation Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Kerssies_Your_ViT_is_Secretly_an_Image_Segmentation_Model_CVPR_2025_paper.pdf) -**CVPR 2024** -[github]
+* [Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization](openaccess.thecvf.com/content/CVPR2023/papers/Yuan_Devil_Is_in_the_Queries_Advancing_Mask_Transformers_for_Real-World_CVPR_2023_paper.pdf) -**CVPR 2024** -[github]
 
 #### IEEE 2024 ####
 ### 2023
