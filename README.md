@@ -73,6 +73,7 @@ The structure that we'll use:
 * [SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Perera_SegFormer3D_An_Efficient_Transformer_for_3D_Medical_Image_Segmentation_CVPRW_2024_paper.pdf) -**CVPR 2024** -[github](https://github.com/OSUPCVLab/SegFormer3D)
 * [OneFormer: One Transformer to Rule Universal Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Jain_OneFormer_One_Transformer_To_Rule_Universal_Image_Segmentation_CVPR_2023_paper.pdf) -**CVPR 2024** -[github](https://github.com/SHI-Labs/OneFormer)
 * [UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_UniDAformer_Unified_Domain_Adaptive_Panoptic_Segmentation_Transformer_via_Hierarchical_Mask_CVPR_2023_paper.pdf) -**CVPR 2024** -[github]
+* [nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.pdf) -**CVPR 2024** -[github](https://github.com/Yanfeng-Zhou/nnWNet)
 
 #### IEEE 2024 ####
 ### 2023
